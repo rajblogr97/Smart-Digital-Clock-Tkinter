@@ -21,3 +21,27 @@ Clean and user-friendly GUI
 Skills Used
 
 Python programming, Tkinter GUI development, time module usage, event-driven programming, real-time UI updates, GUI styling, and clean code structure.
+
+
+Smart-Digital-Clock/
+│
+├── digital_clock.py
+└── README.md
+Learning Outcome
+
+Understanding real-time GUI updates using after()
+
+Working with system time using strftime()
+
+Building desktop applications with Tkinter
+
+Future Improvements
+
+🔔 Alarm functionality
+
+🌍 World clock with time zones
+
+🎨 More themes and font options
+
+📅 Calendar integration
+
